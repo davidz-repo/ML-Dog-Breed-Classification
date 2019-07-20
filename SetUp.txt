@@ -1,0 +1,13 @@
+Windows:
+python3.5
+pip
+pip install ipython
+Download Anaconda3-4.2.0-Windows-x86_64.exe
+git clone https://github.com/udacity/dog-project.git
+cd dog-project
+  Download the dog dataset. Unzip the folder and place it in the repo, at location path/to/dog-project/dogImages.
+  Download the human dataset. Unzip the folder and place it in the repo, at location path/to/dog-project/lfw. If you are using a Windows machine, you are encouraged to use 7zip to extract the folder.
+  Donwload the VGG-16 bottleneck features for the dog dataset. Place it in the repo, at location path/to/dog-project/bottleneck_features.
+Download Visual Studio 2015 (make sure get C++ and Python)
+Download CUDA 9.0 with new batch updates
+Download cuDNN
